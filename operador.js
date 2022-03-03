@@ -1,0 +1,10 @@
+let numero1=Number(prompt("escriba un numero"));
+let numero2=Number(prompt("escriba otro numero"));
+let suma= numero1+numero2;
+let resta= numero1-numero2;
+let multiplicacion= numero1*numero2;
+let divicion= numero1/numero2;
+alert("la suma es"+suma);
+alert("la resta es"+resta);
+alert("la multiplicacion es"+multiplicacion);
+alert("la divicion es"+divicion);
